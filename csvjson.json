@@ -1,0 +1,1342 @@
+[
+  {
+    "No": 1,
+    "ICAO": "WAAA",
+    "WMO": 97180,
+    "IATA": "UPG",
+    "Stasiun": "Sultan Hasanuddin - Makassar",
+    "Lintang": "S 05°03'71",
+    "Bujur": "E 119°33'65",
+    "Ketinggian": 11.76
+  },
+  {
+    "No": 2,
+    "ICAO": "WABB",
+    "WMO": 97560,
+    "IATA": "BIK",
+    "Stasiun": "Frans Kaisiepo - Biak",
+    "Lintang": "S 01°11'21",
+    "Bujur": "E 136°06'21",
+    "Ketinggian": 12
+  },
+  {
+    "No": 3,
+    "ICAO": "WABI",
+    "WMO": 97682,
+    "IATA": "NBX",
+    "Stasiun": "Douw Aturure - Nabire",
+    "Lintang": "S 03°22'29",
+    "Bujur": "E 135°29'64",
+    "Ketinggian": 12.18
+  },
+  {
+    "No": 4,
+    "ICAO": "WABO",
+    "WMO": 97570,
+    "IATA": "ZRI",
+    "Stasiun": "Stevanus Rumbewas - Serui",
+    "Lintang": "S 01°49'.8",
+    "Bujur": "E 136°04'00",
+    "Ketinggian": 6.4
+  },
+  {
+    "No": 5,
+    "ICAO": "WADB",
+    "WMO": 97270,
+    "IATA": "BMU",
+    "Stasiun": "Sultan Muhammad Salahuddin - Bima",
+    "Lintang": "S 08°32'30",
+    "Bujur": "E 118°41'31",
+    "Ketinggian": 2.67
+  },
+  {
+    "No": 6,
+    "ICAO": "WADD",
+    "WMO": 97230,
+    "IATA": "DPS",
+    "Stasiun": "I Gusti Ngurah Rai - Denpasar",
+    "Lintang": "S 08°44'46",
+    "Bujur": "E 115°09'57",
+    "Ketinggian": 5
+  },
+  {
+    "No": 7,
+    "ICAO": "WADL",
+    "WMO": 97240,
+    "IATA": "LOP",
+    "Stasiun": "Bandara Internasional Lombok - Praya",
+    "Lintang": "S 08°45'29",
+    "Bujur": "E 116°16'35",
+    "Ketinggian": 13
+  },
+  {
+    "No": 8,
+    "ICAO": "WADS",
+    "WMO": 97260,
+    "IATA": "SWQ",
+    "Stasiun": "Sultan Muhammad Kaharuddin - Sumbawa Besar",
+    "Lintang": "S 08°29'18",
+    "Bujur": "E 117°24'43",
+    "Ketinggian": 9
+  },
+  {
+    "No": 9,
+    "ICAO": "WADY",
+    "WMO": "",
+    "IATA": "BWX",
+    "Stasiun": "Banyuwangi",
+    "Lintang": "S 08°18'36",
+    "Bujur": "E 114°20'26",
+    "Ketinggian": 25.66
+  },
+  {
+    "No": 10,
+    "ICAO": "WAEE",
+    "WMO": 97430,
+    "IATA": "TTE",
+    "Stasiun": "Sultan Babullah - Ternate",
+    "Lintang": "N 00°49'58",
+    "Bujur": "E 127°22'47",
+    "Ketinggian": 15
+  },
+  {
+    "No": 11,
+    "ICAO": "WAEG",
+    "WMO": 97406,
+    "IATA": "GLX",
+    "Stasiun": "Gamar Malamo - Galela",
+    "Lintang": "N 01°50'18",
+    "Bujur": "E 127°47'13",
+    "Ketinggian": 55
+  },
+  {
+    "No": 12,
+    "ICAO": "WAEK",
+    "WMO": "",
+    "IATA": "KAZ",
+    "Stasiun": "Kuabang Kao",
+    "Lintang": "N 01°11'79",
+    "Bujur": "E 127°53'58",
+    "Ketinggian": 4
+  },
+  {
+    "No": 13,
+    "ICAO": "WAEL",
+    "WMO": 97460,
+    "IATA": "LAH",
+    "Stasiun": "Oesman Sadik - Labuha",
+    "Lintang": "S 00°38'41",
+    "Bujur": "E 127°29'52",
+    "Ketinggian": 40.4
+  },
+  {
+    "No": 14,
+    "ICAO": "WAES",
+    "WMO": 97600,
+    "IATA": "SQN",
+    "Stasiun": "Emalamo - Sanana",
+    "Lintang": "S 02°05'53",
+    "Bujur": "E 125°57'57",
+    "Ketinggian": 7
+  },
+  {
+    "No": 15,
+    "ICAO": "WAEW",
+    "WMO": 97404,
+    "IATA": "OTI",
+    "Stasiun": "Pitu - Morotai",
+    "Lintang": "N 02°03'00",
+    "Bujur": "E 128°19'00",
+    "Ketinggian": 26
+  },
+  {
+    "No": 16,
+    "ICAO": "WAFF",
+    "WMO": 97072,
+    "IATA": "PLW",
+    "Stasiun": "Mutiara SIS Al-Jufri - Palu",
+    "Lintang": "S 00°55'03",
+    "Bujur": "E 119°54'25",
+    "Ketinggian": 86
+  },
+  {
+    "No": 17,
+    "ICAO": "WAFJ",
+    "WMO": "",
+    "IATA": "MJU",
+    "Stasiun": "Tampa Padang - Mamuju",
+    "Lintang": "S 02°35'16",
+    "Bujur": "E 119°01'42",
+    "Ketinggian": 6
+  },
+  {
+    "No": 18,
+    "ICAO": "WAFL",
+    "WMO": 97028,
+    "IATA": "TLI",
+    "Stasiun": "Sultan Bantilan - Toli Toli",
+    "Lintang": "N 01°07'24",
+    "Bujur": "E 120°47'34",
+    "Ketinggian": 6
+  },
+  {
+    "No": 19,
+    "ICAO": "WAFM",
+    "WMO": 97126,
+    "IATA": "MXB",
+    "Stasiun": "Andi Jemma - Masamba",
+    "Lintang": "S 02°33'29",
+    "Bujur": "E 120°19'26",
+    "Ketinggian": 39
+  },
+  {
+    "No": 20,
+    "ICAO": "WAFP",
+    "WMO": 97096,
+    "IATA": "PSJ",
+    "Stasiun": "Kasiguncu - Poso",
+    "Lintang": "S 01°25'08",
+    "Bujur": "E 120°39'28",
+    "Ketinggian": 9
+  },
+  {
+    "No": 21,
+    "ICAO": "WAFT",
+    "WMO": 97124,
+    "IATA": "TTR",
+    "Stasiun": "Pongtiku - Tana Toraja",
+    "Lintang": "S 03°02'33",
+    "Bujur": "E 119°49'11",
+    "Ketinggian": 821
+  },
+  {
+    "No": 22,
+    "ICAO": "WAFW",
+    "WMO": 97086,
+    "IATA": "LUW",
+    "Stasiun": "Syukuran Aminuddin Amir - Luwuk",
+    "Lintang": "S 01°02'26",
+    "Bujur": "E 122°46'15",
+    "Ketinggian": 17
+  },
+  {
+    "No": 23,
+    "ICAO": "WAFY",
+    "WMO": "",
+    "IATA": "UDL",
+    "Stasiun": "Pogogul - Buol",
+    "Lintang": "N 01°06'16",
+    "Bujur": "E 121°24'54",
+    "Ketinggian": 74.63
+  },
+  {
+    "No": 24,
+    "ICAO": "WAGB",
+    "WMO": 96595,
+    "IATA": "MTW",
+    "Stasiun": "Haji Muhammad Sidik - Muara Teweh",
+    "Lintang": "S 01°01'16",
+    "Bujur": "E 114°55'35",
+    "Ketinggian": 44
+  },
+  {
+    "No": 25,
+    "ICAO": "WAGG",
+    "WMO": 96655,
+    "IATA": "PKY",
+    "Stasiun": "Tjilik Riwut - Palangkaraya",
+    "Lintang": "S 02°13'36",
+    "Bujur": "E 113°56'38",
+    "Ketinggian": 13
+  },
+  {
+    "No": 26,
+    "ICAO": "WAGI",
+    "WMO": 96645,
+    "IATA": "PKN",
+    "Stasiun": "Iskandar - Pangkalan Bun",
+    "Lintang": "S 02°42'15",
+    "Bujur": "E 111°40'08",
+    "Ketinggian": 26
+  },
+  {
+    "No": 27,
+    "ICAO": "WAGK",
+    "WMO": "",
+    "IATA": "",
+    "Stasiun": "Beringin - Muara Teweh",
+    "Lintang": "S 00°56'25",
+    "Bujur": "E 114°53'38",
+    "Ketinggian": 39
+  },
+  {
+    "No": 28,
+    "ICAO": "WAGM",
+    "WMO": 96653,
+    "IATA": "BTK",
+    "Stasiun": "Sanggu - Buntok",
+    "Lintang": "S 01°40'10",
+    "Bujur": "E 114°53'56",
+    "Ketinggian": 8
+  },
+  {
+    "No": 29,
+    "ICAO": "WAGS",
+    "WMO": 96651,
+    "IATA": "SMQ",
+    "Stasiun": "Haji Asan - Sampit",
+    "Lintang": "S 02°30'04",
+    "Bujur": "E 112°58'37",
+    "Ketinggian": 11
+  },
+  {
+    "No": 30,
+    "ICAO": "WAHH",
+    "WMO": 96853,
+    "IATA": "JOG",
+    "Stasiun": "Adi Sutjipto - Yogyakarta",
+    "Lintang": "S 07°47'17",
+    "Bujur": "E 110°25'54",
+    "Ketinggian": 350
+  },
+  {
+    "No": 31,
+    "ICAO": "WAHI",
+    "WMO": "",
+    "IATA": "",
+    "Stasiun": "Yogyakarta International Airport - Kulonprogo",
+    "Lintang": "S 07°54'62",
+    "Bujur": "E 110°03'65",
+    "Ketinggian": ""
+  },
+  {
+    "No": 32,
+    "ICAO": "WAHL",
+    "WMO": 96805,
+    "IATA": "CXP",
+    "Stasiun": "Tunggul Wulung - Cilacap",
+    "Lintang": "S 07°38'54",
+    "Bujur": "E 109°02'78",
+    "Ketinggian": 19.61
+  },
+  {
+    "No": 33,
+    "ICAO": "WAHQ",
+    "WMO": 96845,
+    "IATA": "SOC",
+    "Stasiun": "Adi Soemarmo - Surakarta",
+    "Lintang": "S 07°30'49",
+    "Bujur": "E 110°45'02",
+    "Ketinggian": 106
+  },
+  {
+    "No": 34,
+    "ICAO": "WAHS",
+    "WMO": 96839,
+    "IATA": "SRG",
+    "Stasiun": "Ahmad Yani - Semarang",
+    "Lintang": "S 06°58'15",
+    "Bujur": "E 110°22'26",
+    "Ketinggian": 10
+  },
+  {
+    "No": 35,
+    "ICAO": "WAJI",
+    "WMO": 97580,
+    "IATA": "ZRM",
+    "Stasiun": "Mararena / Orai - Sarmi",
+    "Lintang": "S 01°50'59",
+    "Bujur": "E 138°45'00",
+    "Ketinggian": 3
+  },
+  {
+    "No": 36,
+    "ICAO": "WAJJ",
+    "WMO": 97690,
+    "IATA": "DJJ",
+    "Stasiun": "Sentani - Jayapura",
+    "Lintang": "S 02°34'14",
+    "Bujur": "E 140°30'46",
+    "Ketinggian": 58
+  },
+  {
+    "No": 37,
+    "ICAO": "WAKK",
+    "WMO": 97980,
+    "IATA": "MKQ",
+    "Stasiun": "Mopah - Merauke",
+    "Lintang": "S 08°31'03",
+    "Bujur": "E 140°25'01",
+    "Ketinggian": 3
+  },
+  {
+    "No": 38,
+    "ICAO": "WAKT",
+    "WMO": 97876,
+    "IATA": "TMH",
+    "Stasiun": "Tanah Merah",
+    "Lintang": "S 06°05'48",
+    "Bujur": "E 140°18'14",
+    "Ketinggian": 24
+  },
+  {
+    "No": 39,
+    "ICAO": "WALL",
+    "WMO": 96633,
+    "IATA": "BPN",
+    "Stasiun": "Sultan Aji Muhammad Sulaiman - Sepinggan",
+    "Lintang": "S 01°16'01",
+    "Bujur": "E 116°53'38",
+    "Ketinggian": 4
+  },
+  {
+    "No": 40,
+    "ICAO": "WALS",
+    "WMO": 96607,
+    "IATA": "SRI",
+    "Stasiun": "Aji Pangeran Tumenggung Pranoto - Samarinda",
+    "Lintang": "S 00°29'04",
+    "Bujur": "E 117°09'25",
+    "Ketinggian": 3
+  },
+  {
+    "No": 41,
+    "ICAO": "WAMG",
+    "WMO": 97048,
+    "IATA": "GTO",
+    "Stasiun": "Djalaluddin - Gorontalo",
+    "Lintang": "N 00°38'13",
+    "Bujur": "E 122°50'56",
+    "Ketinggian": 33
+  },
+  {
+    "No": 42,
+    "ICAO": "WAMH",
+    "WMO": 97008,
+    "IATA": "NAH",
+    "Stasiun": "Naha - Tahuna",
+    "Lintang": "N 03°40'58",
+    "Bujur": "E 125°31'40",
+    "Ketinggian": 5
+  },
+  {
+    "No": 43,
+    "ICAO": "WAMM",
+    "WMO": 97014,
+    "IATA": "MDC",
+    "Stasiun": "Sam Ratulangi - Manado",
+    "Lintang": "N 01°32'36",
+    "Bujur": "E 124°55'19",
+    "Ketinggian": 80
+  },
+  {
+    "No": 44,
+    "ICAO": "WAOK",
+    "WMO": 96695,
+    "IATA": "KBU",
+    "Stasiun": "Gusti Sjamsir Alam - Kota Baru",
+    "Lintang": "S 03°17'45",
+    "Bujur": "E 116°09'50",
+    "Ketinggian": 2
+  },
+  {
+    "No": 45,
+    "ICAO": "WAOO",
+    "WMO": 96685,
+    "IATA": "BDJ",
+    "Stasiun": "Syamsudin Noor - Banjarmasin",
+    "Lintang": "S 03°26'22",
+    "Bujur": "E 114°45'14",
+    "Ketinggian": 20
+  },
+  {
+    "No": 46,
+    "ICAO": "WAPA",
+    "WMO": 97722,
+    "IATA": "AHI",
+    "Stasiun": "Amahai",
+    "Lintang": "S 03°20'49",
+    "Bujur": "E 128°55'33",
+    "Ketinggian": 7
+  },
+  {
+    "No": 47,
+    "ICAO": "WAPC",
+    "WMO": 97790,
+    "IATA": "NDA",
+    "Stasiun": "Bandaneira - Banda",
+    "Lintang": "S 04°31'18",
+    "Bujur": "E 129°54'14",
+    "Ketinggian": 19.9
+  },
+  {
+    "No": 48,
+    "ICAO": "WAPF",
+    "WMO": "",
+    "IATA": "LUV",
+    "Stasiun": "Karel Sadsuitubun - Tual",
+    "Lintang": "S 05°45'37",
+    "Bujur": "E 132°45'34",
+    "Ketinggian": 24.33
+  },
+  {
+    "No": 49,
+    "ICAO": "WAPI",
+    "WMO": 97900,
+    "IATA": "SXK",
+    "Stasiun": "Olilit - Saumlaki",
+    "Lintang": "S 07°59'18",
+    "Bujur": "E 131°18'14",
+    "Ketinggian": 57
+  },
+  {
+    "No": 50,
+    "ICAO": "WAPL",
+    "WMO": 97810,
+    "IATA": "LUV",
+    "Stasiun": "Dumatubun - Langgur",
+    "Lintang": "S 05°39'41",
+    "Bujur": "E 132°43'53",
+    "Ketinggian": 133
+  },
+  {
+    "No": 51,
+    "ICAO": "WAPP",
+    "WMO": 97724,
+    "IATA": "AMQ",
+    "Stasiun": "Pattimura - Ambon",
+    "Lintang": "S 03°42'24",
+    "Bujur": "E 128°05'20",
+    "Ketinggian": 10
+  },
+  {
+    "No": 52,
+    "ICAO": "WAPR",
+    "WMO": 97700,
+    "IATA": "NAM",
+    "Stasiun": "Namniwel - Namlea",
+    "Lintang": "S 03°14'09",
+    "Bujur": "E 127°05'59",
+    "Ketinggian": 110
+  },
+  {
+    "No": 53,
+    "ICAO": "WAPS",
+    "WMO": 97900,
+    "IATA": "SXK",
+    "Stasiun": "Mathilda Batlayeri - Saumlaki",
+    "Lintang": "S 07°59'18",
+    "Bujur": "E 131°18'16",
+    "Ketinggian": 125
+  },
+  {
+    "No": 54,
+    "ICAO": "WAQA",
+    "WMO": 96503,
+    "IATA": "NNX",
+    "Stasiun": "Nunukan",
+    "Lintang": "N 04°08'12",
+    "Bujur": "E 117°39'54",
+    "Ketinggian": 17
+  },
+  {
+    "No": 55,
+    "ICAO": "WAQD",
+    "WMO": 96525,
+    "IATA": "TJS",
+    "Stasiun": "Tanjung Harapan - Tanjung Selor",
+    "Lintang": "N 02°50'14",
+    "Bujur": "E 117°22'26",
+    "Ketinggian": 6
+  },
+  {
+    "No": 56,
+    "ICAO": "WAQJ",
+    "WMO": 96505,
+    "IATA": "LBW",
+    "Stasiun": "Yuvai Semaring - Long Bawang",
+    "Lintang": "N 03°52'59",
+    "Bujur": "E 115°42'00",
+    "Ketinggian": 762
+  },
+  {
+    "No": 57,
+    "ICAO": "WAQL",
+    "WMO": "",
+    "IATA": "LPU",
+    "Stasiun": "Long Apung",
+    "Lintang": "N 01°42'16",
+    "Bujur": "E 114°58'13",
+    "Ketinggian": 732
+  },
+  {
+    "No": 58,
+    "ICAO": "WAQM",
+    "WMO": "",
+    "IATA": "",
+    "Stasiun": "Bandar Udara Robert Atty Bessing",
+    "Lintang": "N 03°34'08",
+    "Bujur": "E 116°37'92",
+    "Ketinggian": 8
+  },
+  {
+    "No": 59,
+    "ICAO": "WAQQ",
+    "WMO": 96509,
+    "IATA": "TRK",
+    "Stasiun": "Juwata - Tarakan",
+    "Lintang": "N 03°19'36",
+    "Bujur": "E 117°34'11",
+    "Ketinggian": 6
+  },
+  {
+    "No": 60,
+    "ICAO": "WAQT",
+    "WMO": 96529,
+    "IATA": "BEJ",
+    "Stasiun": "Kalimarau - Tanjung Redeb",
+    "Lintang": "N 02°09'18",
+    "Bujur": "E 117°25'58",
+    "Ketinggian": 7
+  },
+  {
+    "No": 61,
+    "ICAO": "WARA",
+    "WMO": 96947,
+    "IATA": "MLG",
+    "Stasiun": "Abdulrachman Saleh - Malang",
+    "Lintang": "S 07°55'46",
+    "Bujur": "E 112°42'43",
+    "Ketinggian": 572
+  },
+  {
+    "No": 62,
+    "ICAO": "WARE",
+    "WMO": "",
+    "IATA": "JBB",
+    "Stasiun": "Noto Hadinegoro - Jember",
+    "Lintang": "S 08°14'24",
+    "Bujur": "E 113°41'37",
+    "Ketinggian": 87
+  },
+  {
+    "No": 63,
+    "ICAO": "WARI",
+    "WMO": 96881,
+    "IATA": "IWH",
+    "Stasiun": "Iswahjudi - Madiun",
+    "Lintang": "S 07°38'00",
+    "Bujur": "E 111°26'00",
+    "Ketinggian": 120
+  },
+  {
+    "No": 64,
+    "ICAO": "WARR",
+    "WMO": 96935,
+    "IATA": "SUB",
+    "Stasiun": "Juanda - Surabaya",
+    "Lintang": "S 07°22'38",
+    "Bujur": "E 112°47'38",
+    "Ketinggian": 3
+  },
+  {
+    "No": 65,
+    "ICAO": "WART",
+    "WMO": "",
+    "IATA": "SUP",
+    "Stasiun": "Trunojoyo - Sumenep",
+    "Lintang": "S 07°01'27",
+    "Bujur": "E 113°53'24",
+    "Ketinggian": 3
+  },
+  {
+    "No": 66,
+    "ICAO": "WARW",
+    "WMO": 96925,
+    "IATA": "BXW",
+    "Stasiun": "Bawean - Harun Thohir",
+    "Lintang": "S 05°43'",
+    "Bujur": "E 112°40'",
+    "Ketinggian": ""
+  },
+  {
+    "No": 67,
+    "ICAO": "WASF",
+    "WMO": 97630,
+    "IATA": "FKQ",
+    "Stasiun": "Torea - Fak Fak",
+    "Lintang": "S 02°55'13",
+    "Bujur": "E 132°16'01",
+    "Ketinggian": 125
+  },
+  {
+    "No": 68,
+    "ICAO": "WASK",
+    "WMO": 97760,
+    "IATA": "KNG",
+    "Stasiun": "Utarom - Kaimana",
+    "Lintang": "S 03°38'37",
+    "Bujur": "E 133°41'45",
+    "Ketinggian": 5
+  },
+  {
+    "No": 69,
+    "ICAO": "WASS",
+    "WMO": 97502,
+    "IATA": "SOQ",
+    "Stasiun": "Domine Eduard Osok - Sorong",
+    "Lintang": "S 00°53'38",
+    "Bujur": "E 131°17'09",
+    "Ketinggian": 4
+  },
+  {
+    "No": 70,
+    "ICAO": "WATA",
+    "WMO": "",
+    "IATA": "ABU",
+    "Stasiun": "A.A. Bere Talo / Atambua",
+    "Lintang": "S 09°04'28",
+    "Bujur": "E 124°54'16",
+    "Ketinggian": 375
+  },
+  {
+    "No": 71,
+    "ICAO": "WATB",
+    "WMO": "",
+    "IATA": "BJW",
+    "Stasiun": "SOA - Bajawa",
+    "Lintang": "S 08°42'84",
+    "Bujur": "E 121°03'12",
+    "Ketinggian": 450
+  },
+  {
+    "No": 72,
+    "ICAO": "WATC",
+    "WMO": 97300,
+    "IATA": "MOF",
+    "Stasiun": "Fransiskus Xaverius Seda - Maumere",
+    "Lintang": "S 08°38'20",
+    "Bujur": "E 122°14'20",
+    "Ketinggian": 35
+  },
+  {
+    "No": 73,
+    "ICAO": "WATE",
+    "WMO": "",
+    "IATA": "ENE",
+    "Stasiun": "H. Hasan Aroeboesman - Ende",
+    "Lintang": "S 08°50'57",
+    "Bujur": "E 121°39'38",
+    "Ketinggian": 15
+  },
+  {
+    "No": 74,
+    "ICAO": "WATG",
+    "WMO": 97284,
+    "IATA": "RTG",
+    "Stasiun": "Frans Sales Lega - Ruteng",
+    "Lintang": "S 08°35'46",
+    "Bujur": "E 120°28'40",
+    "Ketinggian": 1143
+  },
+  {
+    "No": 75,
+    "ICAO": "WATK",
+    "WMO": "",
+    "IATA": "TMC",
+    "Stasiun": "Tambolaka - Sumba Barat",
+    "Lintang": "S 09°24'34",
+    "Bujur": "E 119°14'40",
+    "Ketinggian": 62
+  },
+  {
+    "No": 76,
+    "ICAO": "WATL",
+    "WMO": 97310,
+    "IATA": "LKA",
+    "Stasiun": "Gewayantana - Larantuka",
+    "Lintang": "S 08°16'27",
+    "Bujur": "E 123°00'00",
+    "Ketinggian": 9
+  },
+  {
+    "No": 77,
+    "ICAO": "WATM",
+    "WMO": 97320,
+    "IATA": "ARD",
+    "Stasiun": "Mali - Alor",
+    "Lintang": "S 08°08'11",
+    "Bujur": "E 124°35'38",
+    "Ketinggian": 3
+  },
+  {
+    "No": 78,
+    "ICAO": "WATO",
+    "WMO": 97282,
+    "IATA": "LBJ",
+    "Stasiun": "Komodo - Labuan Bajo",
+    "Lintang": "S 08°29'17",
+    "Bujur": "E 119°53'20",
+    "Ketinggian": 67
+  },
+  {
+    "No": 79,
+    "ICAO": "WATR",
+    "WMO": 97378,
+    "IATA": "RTI",
+    "Stasiun": "David Constantijn Saudale - Rote",
+    "Lintang": "S 10°46'01",
+    "Bujur": "E 123°04'30",
+    "Ketinggian": 140
+  },
+  {
+    "No": 80,
+    "ICAO": "WATS",
+    "WMO": 97380,
+    "IATA": "SAU",
+    "Stasiun": "Tardamu - Sabu",
+    "Lintang": "S 10°29'34",
+    "Bujur": "E 121°50'59",
+    "Ketinggian": 20
+  },
+  {
+    "No": 81,
+    "ICAO": "WATT",
+    "WMO": 97372,
+    "IATA": "KOE",
+    "Stasiun": "El Tari - Kupang",
+    "Lintang": "S 10°10'17",
+    "Bujur": "E 123°40'19",
+    "Ketinggian": 103
+  },
+  {
+    "No": 82,
+    "ICAO": "WATU",
+    "WMO": 97340,
+    "IATA": "WGP",
+    "Stasiun": "Umbu Mehang Kunda - Waingapu",
+    "Lintang": "S 09°40'08",
+    "Bujur": "E 120°17'56",
+    "Ketinggian": 10
+  },
+  {
+    "No": 83,
+    "ICAO": "WATW",
+    "WMO": "",
+    "IATA": "LWE",
+    "Stasiun": "Wunopito - Lembata",
+    "Lintang": "S 08°21'96",
+    "Bujur": "E 123°26'24",
+    "Ketinggian": ""
+  },
+  {
+    "No": 84,
+    "ICAO": "WAUU",
+    "WMO": 97530,
+    "IATA": "MKW",
+    "Stasiun": "Rendani - Manokwari",
+    "Lintang": "S 00°53'35",
+    "Bujur": "E 134°03'00",
+    "Ketinggian": 5
+  },
+  {
+    "No": 85,
+    "ICAO": "WAVV",
+    "WMO": 97686,
+    "IATA": "WMX",
+    "Stasiun": "Wamena",
+    "Lintang": "S 04°05'43",
+    "Bujur": "E 138°57'03",
+    "Ketinggian": 1655
+  },
+  {
+    "No": 86,
+    "ICAO": "WAWB",
+    "WMO": 97192,
+    "IATA": "BUW",
+    "Stasiun": "Beto Ambari - Bau Bau",
+    "Lintang": "S 05°29'13",
+    "Bujur": "E 122°34'08",
+    "Ketinggian": 34
+  },
+  {
+    "No": 87,
+    "ICAO": "WAWP",
+    "WMO": "",
+    "IATA": "PUM",
+    "Stasiun": "Sangia Nibandera - Kolaka",
+    "Lintang": "S 04°10'51",
+    "Bujur": "E 121°36'53",
+    "Ketinggian": 24
+  },
+  {
+    "No": 88,
+    "ICAO": "WAWW",
+    "WMO": 97146,
+    "IATA": "KDI",
+    "Stasiun": "Haluoleo - Kendari",
+    "Lintang": "S 04°04'55",
+    "Bujur": "E 122°25'01",
+    "Ketinggian": 55
+  },
+  {
+    "No": 89,
+    "ICAO": "WAYE",
+    "WMO": 97780,
+    "IATA": "EWI",
+    "Stasiun": "Enarotali",
+    "Lintang": "S 03°55'32",
+    "Bujur": "E 136°22'40",
+    "Ketinggian": 1.75
+  },
+  {
+    "No": 90,
+    "ICAO": "WAYY",
+    "WMO": 97796,
+    "IATA": "TIM",
+    "Stasiun": "Mozes Kilangin - Timika",
+    "Lintang": "S 04°31'39",
+    "Bujur": "E 136°53'23",
+    "Ketinggian": 103
+  },
+  {
+    "No": 91,
+    "ICAO": "WIBB",
+    "WMO": 96109,
+    "IATA": "PKU",
+    "Stasiun": "Sultan Syarif Kasim II - Pekanbaru",
+    "Lintang": "N 00°27'36",
+    "Bujur": "E 101°26'38",
+    "Ketinggian": 37
+  },
+  {
+    "No": 92,
+    "ICAO": "WIBJ",
+    "WMO": 96171,
+    "IATA": "RGT",
+    "Stasiun": "Japura - Rengat",
+    "Lintang": "S 00°21'07",
+    "Bujur": "E 102°20'02",
+    "Ketinggian": 19
+  },
+  {
+    "No": 93,
+    "ICAO": "WICA",
+    "WMO": "",
+    "IATA": "KJT",
+    "Stasiun": "Kertajati",
+    "Lintang": "S 06°39'07",
+    "Bujur": "E 108°09'27",
+    "Ketinggian": 38
+  },
+  {
+    "No": 94,
+    "ICAO": "WICC",
+    "WMO": 96781,
+    "IATA": "BDO",
+    "Stasiun": "Husein Sastranegara - Bandung",
+    "Lintang": "S 06°54'07",
+    "Bujur": "E 107°34'34",
+    "Ketinggian": 812
+  },
+  {
+    "No": 95,
+    "ICAO": "WICD",
+    "WMO": 96793,
+    "IATA": "CBN",
+    "Stasiun": "Cakrabhuwana / Penggung - Cirebon",
+    "Lintang": "S 06°45'24",
+    "Bujur": "E 108°32'20",
+    "Ketinggian": 27
+  },
+  {
+    "No": 96,
+    "ICAO": "WICM",
+    "WMO": 96801,
+    "IATA": "TSY",
+    "Stasiun": "Wiriadinata - Cibeureum, Tasikmalaya",
+    "Lintang": "S 07°20'00",
+    "Bujur": "E 108°15'00",
+    "Ketinggian": 383
+  },
+  {
+    "No": 97,
+    "ICAO": "WICS",
+    "WMO": 96773,
+    "IATA": "",
+    "Stasiun": "Suryadarma - Kalijati, Subang",
+    "Lintang": "S 06°31'53",
+    "Bujur": "E 107°39'32",
+    "Ketinggian": 120
+  },
+  {
+    "No": 98,
+    "ICAO": "WIDD",
+    "WMO": 96087,
+    "IATA": "BTH",
+    "Stasiun": "Hang Nadim - Batam",
+    "Lintang": "N 01°07'24",
+    "Bujur": "E 104°06'53",
+    "Ketinggian": 38
+  },
+  {
+    "No": 99,
+    "ICAO": "WIDM",
+    "WMO": "",
+    "IATA": "MWK",
+    "Stasiun": "MATAK",
+    "Lintang": "N 03°20'36",
+    "Bujur": "E 106°15'68",
+    "Ketinggian": 3
+  },
+  {
+    "No": 100,
+    "ICAO": "WIDN",
+    "WMO": 96091,
+    "IATA": "TNJ",
+    "Stasiun": "Raja Haji Fisabilillah - Tanjung Pinang",
+    "Lintang": "N 00°55'16",
+    "Bujur": "E 104°31'51",
+    "Ketinggian": 10
+  },
+  {
+    "No": 101,
+    "ICAO": "WIDO",
+    "WMO": 96147,
+    "IATA": "NTX",
+    "Stasiun": "Ranai - Natuna",
+    "Lintang": "N 03°54'43",
+    "Bujur": "E 108°23'35",
+    "Ketinggian": 2
+  },
+  {
+    "No": 102,
+    "ICAO": "WIDS",
+    "WMO": 96179,
+    "IATA": "SIQ",
+    "Stasiun": "Dabo - Singkep",
+    "Lintang": "S 00°28'42",
+    "Bujur": "E 104°34'44",
+    "Ketinggian": 28
+  },
+  {
+    "No": 103,
+    "ICAO": "WIDT",
+    "WMO": 96089,
+    "IATA": "TJB",
+    "Stasiun": "Raja Haji Abdullah - Tanjung Balai Karimun",
+    "Lintang": "N 01°03'09",
+    "Bujur": "E 103°23'31",
+    "Ketinggian": 1
+  },
+  {
+    "No": 104,
+    "ICAO": "WIEE",
+    "WMO": 96163,
+    "IATA": "PDG",
+    "Stasiun": "Minangkabau International Airport - Padang",
+    "Lintang": "S 00°47'18",
+    "Bujur": "E 100°16'51",
+    "Ketinggian": 9
+  },
+  {
+    "No": 105,
+    "ICAO": "WIET",
+    "WMO": "",
+    "IATA": "",
+    "Stasiun": "LANUD Sutan Sjahrir",
+    "Lintang": "S 00°52'08",
+    "Bujur": "E 100°20'12",
+    "Ketinggian": 0
+  },
+  {
+    "No": 106,
+    "ICAO": "WIGG",
+    "WMO": 96253,
+    "IATA": "BKS",
+    "Stasiun": "Fatmawati Sukarno - Bengkulu",
+    "Lintang": "S 03°51'51",
+    "Bujur": "E 102°20'24",
+    "Ketinggian": 22
+  },
+  {
+    "No": 107,
+    "ICAO": "WIGM",
+    "WMO": "",
+    "IATA": "MPC",
+    "Stasiun": "Mukomuko",
+    "Lintang": "S 02°32'32",
+    "Bujur": "E 101°05'24",
+    "Ketinggian": 5
+  },
+  {
+    "No": 108,
+    "ICAO": "WIHH",
+    "WMO": 96747,
+    "IATA": "HLP",
+    "Stasiun": "Halim Perdana Kusuma - Jakarta",
+    "Lintang": "S 06°16'03",
+    "Bujur": "E 106°53'11",
+    "Ketinggian": 28
+  },
+  {
+    "No": 109,
+    "ICAO": "WIHJ",
+    "WMO": 96755,
+    "IATA": "ATS",
+    "Stasiun": "Atang Sendjaja - Bogor",
+    "Lintang": "S 06°32'39",
+    "Bujur": "E 106°45'11",
+    "Ketinggian": 179
+  },
+  {
+    "No": 110,
+    "ICAO": "WIII",
+    "WMO": 96749,
+    "IATA": "CGK",
+    "Stasiun": "Soekarno Hatta - Jakarta",
+    "Lintang": "S 06°07'35",
+    "Bujur": "E 106°39'14",
+    "Ketinggian": 11
+  },
+  {
+    "No": 111,
+    "ICAO": "WIJI",
+    "WMO": 96207,
+    "IATA": "KRC",
+    "Stasiun": "Depati Parbo - Kerinci",
+    "Lintang": "S 02°05'38",
+    "Bujur": "E 101°28'11",
+    "Ketinggian": 791
+  },
+  {
+    "No": 112,
+    "ICAO": "WIJJ",
+    "WMO": 96195,
+    "IATA": "DJB",
+    "Stasiun": "Sultan Thaha - Jambi",
+    "Lintang": "S 01°38'10",
+    "Bujur": "E 103°38'31",
+    "Ketinggian": 27
+  },
+  {
+    "No": 113,
+    "ICAO": "WIKK",
+    "WMO": 96237,
+    "IATA": "PGK",
+    "Stasiun": "Depati Amir - Pangkal Pinang",
+    "Lintang": "S 02°09'47",
+    "Bujur": "E 106°08'20",
+    "Ketinggian": 33
+  },
+  {
+    "No": 114,
+    "ICAO": "WIKT",
+    "WMO": 96249,
+    "IATA": "TJQ",
+    "Stasiun": "H.A.S. Hanandjoeddin - Tanjung Pandan",
+    "Lintang": "S 02°45'14",
+    "Bujur": "E 107°45'10",
+    "Ketinggian": 50
+  },
+  {
+    "No": 115,
+    "ICAO": "WILL",
+    "WMO": 96295,
+    "IATA": "TKG",
+    "Stasiun": "Radin Inten II - Lampung",
+    "Lintang": "S 05°14'33",
+    "Bujur": "E 105°10'33",
+    "Ketinggian": 84
+  },
+  {
+    "No": 116,
+    "ICAO": "WILM",
+    "WMO": 96273,
+    "IATA": "AKQ",
+    "Stasiun": "Astra Ksetra - Lampung",
+    "Lintang": "S 04°36'00",
+    "Bujur": "E 105°15'00",
+    "Ketinggian": 21
+  },
+  {
+    "No": 117,
+    "ICAO": "WIMA",
+    "WMO": 96009,
+    "IATA": "LSW",
+    "Stasiun": "Malikus Saleh - Lhokseumawe",
+    "Lintang": "N 05°13'33",
+    "Bujur": "E 096°56'55",
+    "Ketinggian": 27
+  },
+  {
+    "No": 118,
+    "ICAO": "WIMB",
+    "WMO": 96075,
+    "IATA": "GNS",
+    "Stasiun": "Binaka - Gunung Sitoli",
+    "Lintang": "N 01°09'59",
+    "Bujur": "E 097°42'16",
+    "Ketinggian": 7
+  },
+  {
+    "No": 119,
+    "ICAO": "WIME",
+    "WMO": 96071,
+    "IATA": "AEG",
+    "Stasiun": "Aek Godang - Padang Sidempuan",
+    "Lintang": "N 01°23'58",
+    "Bujur": "E 099°25'51",
+    "Ketinggian": 286
+  },
+  {
+    "No": 120,
+    "ICAO": "WIMM",
+    "WMO": 96035,
+    "IATA": "KNO",
+    "Stasiun": "Kualanamu International Airport - Deli Serdang",
+    "Lintang": "N 03°38'25",
+    "Bujur": "E 098°52'43",
+    "Ketinggian": 7
+  },
+  {
+    "No": 121,
+    "ICAO": "WIMN",
+    "WMO": "",
+    "IATA": "DTB",
+    "Stasiun": "Silangit - Tapanuli Utara",
+    "Lintang": "N 02°15'31",
+    "Bujur": "E 098°59'37",
+    "Ketinggian": 1.416
+  },
+  {
+    "No": 122,
+    "ICAO": "WIMS",
+    "WMO": 96073,
+    "IATA": "SIX",
+    "Stasiun": "Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)",
+    "Lintang": "N 01°33'15",
+    "Bujur": "E 098°53'26",
+    "Ketinggian": 11
+  },
+  {
+    "No": 123,
+    "ICAO": "WIOG",
+    "WMO": 96557,
+    "IATA": "NPO",
+    "Stasiun": "Nanga Pinoh",
+    "Lintang": "S 00°20'55",
+    "Bujur": "E 111°44'52",
+    "Ketinggian": 38
+  },
+  {
+    "No": 124,
+    "ICAO": "WIOH",
+    "WMO": 96535,
+    "IATA": "",
+    "Stasiun": "Paloh - Sambas",
+    "Lintang": "N 01°44'05",
+    "Bujur": "E 109°19'97",
+    "Ketinggian": 8
+  },
+  {
+    "No": 125,
+    "ICAO": "WIOI",
+    "WMO": 96533,
+    "IATA": "",
+    "Stasiun": "Singkawang II - Sanggau Ledo, Kalbar",
+    "Lintang": "",
+    "Bujur": "",
+    "Ketinggian": 18
+  },
+  {
+    "No": 126,
+    "ICAO": "WIOK",
+    "WMO": 96615,
+    "IATA": "KTG",
+    "Stasiun": "Rahadi Oesman - Ketapang",
+    "Lintang": "S 01°48'57",
+    "Bujur": "E 109°57'46",
+    "Ketinggian": 5
+  },
+  {
+    "No": 127,
+    "ICAO": "WIOO",
+    "WMO": 96581,
+    "IATA": "PNK",
+    "Stasiun": "Supadio - Pontianak",
+    "Lintang": "S 00°08'56",
+    "Bujur": "E 109°24'10",
+    "Ketinggian": 3
+  },
+  {
+    "No": 128,
+    "ICAO": "WIOP",
+    "WMO": 96565,
+    "IATA": "PSU",
+    "Stasiun": "Pangsuma - Putussibau",
+    "Lintang": "N 00°50'08",
+    "Bujur": "E 112°56'09",
+    "Ketinggian": 91
+  },
+  {
+    "No": 129,
+    "ICAO": "WIOS",
+    "WMO": 96559,
+    "IATA": "SQG",
+    "Stasiun": "Tebelian - Sintang",
+    "Lintang": "N 00°03'49",
+    "Bujur": "E 111°28'22",
+    "Ketinggian": 28
+  },
+  {
+    "No": 130,
+    "ICAO": "WIPP",
+    "WMO": 96221,
+    "IATA": "PLM",
+    "Stasiun": "Sultan Mahmud Badaruddin II - Palembang",
+    "Lintang": "S 02°53'52",
+    "Bujur": "E 104°42'03",
+    "Ketinggian": 15
+  },
+  {
+    "No": 131,
+    "ICAO": "WIRR",
+    "WMO": 96739,
+    "IATA": "BTO",
+    "Stasiun": "Budiarto - Curug",
+    "Lintang": "S 06°17'27",
+    "Bujur": "E 106°33'57",
+    "Ketinggian": 42
+  },
+  {
+    "No": 132,
+    "ICAO": "WITC",
+    "WMO": 96015,
+    "IATA": "MEQ",
+    "Stasiun": "Cut Nyak Dien Nagan Raya - Meulaboh, NAD",
+    "Lintang": "N 04°02'42",
+    "Bujur": "E 096°14'58",
+    "Ketinggian": 6
+  },
+  {
+    "No": 133,
+    "ICAO": "WITN",
+    "WMO": 96001,
+    "IATA": "SBG",
+    "Stasiun": "Maimun Saleh - Sabang",
+    "Lintang": "N 05°52'36",
+    "Bujur": "E 095°20'24",
+    "Ketinggian": 110
+  },
+  {
+    "No": 134,
+    "ICAO": "WITT",
+    "WMO": 96011,
+    "IATA": "BTJ",
+    "Stasiun": "Sultan Iskandar Muda - Banda Aceh",
+    "Lintang": "N 05°31'12",
+    "Bujur": "E 095°25'15",
+    "Ketinggian": 23
+  }
+]

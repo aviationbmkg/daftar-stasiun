@@ -1,0 +1,135 @@
+No,ICAO,WMO,IATA,Stasiun,Lintang,Bujur,Ketinggian
+1,WAAA,97180,UPG,Sultan Hasanuddin - Makassar,"S 05°03'71""","E 119°33'65""",11.76
+2,WABB,97560,BIK,Frans Kaisiepo - Biak,"S 01°11'21""","E 136°06'21""",12
+3,WABI,97682,NBX,Douw Aturure - Nabire,"S 03°22'29""","E 135°29'64""",12.18
+4,WABO,97570,ZRI,Stevanus Rumbewas - Serui,"S 01°49'.8""","E 136°04'00""",6.4
+5,WADB,97270,BMU,Sultan Muhammad Salahuddin - Bima,"S 08°32'30""","E 118°41'31""",2.67
+6,WADD,97230,DPS,I Gusti Ngurah Rai - Denpasar,"S 08°44'46""","E 115°09'57""",5
+7,WADL,97240,LOP,Bandara Internasional Lombok - Praya,"S 08°45'29""","E 116°16'35""",13
+8,WADS,97260,SWQ,Sultan Muhammad Kaharuddin - Sumbawa Besar,"S 08°29'18""","E 117°24'43""",9
+9,WADY,,BWX,Banyuwangi,"S 08°18'36""","E 114°20'26""",25.66
+10,WAEE,97430,TTE,Sultan Babullah - Ternate,"N 00°49'58""","E 127°22'47""",15
+11,WAEG,97406,GLX,Gamar Malamo - Galela,"N 01°50'18""","E 127°47'13""",55
+12,WAEK,,KAZ,Kuabang Kao,"N 01°11'79""","E 127°53'58""",4
+13,WAEL,97460,LAH,Oesman Sadik - Labuha,"S 00°38'41""","E 127°29'52""",40.4
+14,WAES,97600,SQN,Emalamo - Sanana,"S 02°05'53""","E 125°57'57""",7
+15,WAEW,97404,OTI,Pitu - Morotai,"N 02°03'00""","E 128°19'00""",26
+16,WAFF,97072,PLW,Mutiara SIS Al-Jufri - Palu,"S 00°55'03""","E 119°54'25""",86
+17,WAFJ,,MJU,Tampa Padang - Mamuju,"S 02°35'16""","E 119°01'42""",6
+18,WAFL,97028,TLI,Sultan Bantilan - Toli Toli,"N 01°07'24""","E 120°47'34""",6
+19,WAFM,97126,MXB,Andi Jemma - Masamba,"S 02°33'29""","E 120°19'26""",39
+20,WAFP,97096,PSJ,Kasiguncu - Poso,"S 01°25'08""","E 120°39'28""",9
+21,WAFT,97124,TTR,Pongtiku - Tana Toraja,"S 03°02'33""","E 119°49'11""",821
+22,WAFW,97086,LUW,Syukuran Aminuddin Amir - Luwuk,"S 01°02'26""","E 122°46'15""",17
+23,WAFY,,UDL,Pogogul - Buol,"N 01°06'16""","E 121°24'54""",74.63
+24,WAGB,96595,MTW,Haji Muhammad Sidik - Muara Teweh,"S 01°01'16""","E 114°55'35""",44
+25,WAGG,96655,PKY,Tjilik Riwut - Palangkaraya,"S 02°13'36""","E 113°56'38""",13
+26,WAGI,96645,PKN,Iskandar - Pangkalan Bun,"S 02°42'15""","E 111°40'08""",26
+27,WAGK,,,Beringin - Muara Teweh,"S 00°56'25""","E 114°53'38""",39
+28,WAGM,96653,BTK,Sanggu - Buntok,"S 01°40'10""","E 114°53'56""",8
+29,WAGS,96651,SMQ,Haji Asan - Sampit,"S 02°30'04""","E 112°58'37""",11
+30,WAHH,96853,JOG,Adi Sutjipto - Yogyakarta,"S 07°47'17""","E 110°25'54""",350
+31,WAHI,,,Yogyakarta International Airport - Kulonprogo,"S 07°54'62""","E 110°03'65""",
+32,WAHL,96805,CXP,Tunggul Wulung - Cilacap,"S 07°38'54""","E 109°02'78""",19.61
+33,WAHQ,96845,SOC,Adi Soemarmo - Surakarta,"S 07°30'49""","E 110°45'02""",106
+34,WAHS,96839,SRG,Ahmad Yani - Semarang,"S 06°58'15""","E 110°22'26""",10
+35,WAJI,97580,ZRM,Mararena / Orai - Sarmi,"S 01°50'59""","E 138°45'00""",3
+36,WAJJ,97690,DJJ,Sentani - Jayapura,"S 02°34'14""","E 140°30'46""",58
+37,WAKK,97980,MKQ,Mopah - Merauke,"S 08°31'03""","E 140°25'01""",3
+38,WAKT,97876,TMH,Tanah Merah,"S 06°05'48""","E 140°18'14""",24
+39,WALL,96633,BPN,Sultan Aji Muhammad Sulaiman - Sepinggan,"S 01°16'01""","E 116°53'38""",4
+40,WALS,96607,SRI,Aji Pangeran Tumenggung Pranoto - Samarinda,"S 00°29'04""","E 117°09'25""",3
+41,WAMG,97048,GTO,Djalaluddin - Gorontalo,"N 00°38'13""","E 122°50'56""",33
+42,WAMH,97008,NAH,Naha - Tahuna,"N 03°40'58""","E 125°31'40""",5
+43,WAMM,97014,MDC,Sam Ratulangi - Manado,"N 01°32'36""","E 124°55'19""",80
+44,WAOK,96695,KBU,Gusti Sjamsir Alam - Kota Baru,"S 03°17'45""","E 116°09'50""",2
+45,WAOO,96685,BDJ,Syamsudin Noor - Banjarmasin,"S 03°26'22""","E 114°45'14""",20
+46,WAPA,97722,AHI,Amahai,"S 03°20'49""","E 128°55'33""",7
+47,WAPC,97790,NDA,Bandaneira - Banda,"S 04°31'18""","E 129°54'14""",19.9
+48,WAPF,,LUV,Karel Sadsuitubun - Tual,"S 05°45'37""","E 132°45'34""",24.33
+49,WAPI,97900,SXK,Olilit - Saumlaki,"S 07°59'18""","E 131°18'14""",57
+50,WAPL,97810,LUV,Dumatubun - Langgur,"S 05°39'41""","E 132°43'53""",133
+51,WAPP,97724,AMQ,Pattimura - Ambon,"S 03°42'24""","E 128°05'20""",10
+52,WAPR,97700,NAM,Namniwel - Namlea,"S 03°14'09""","E 127°05'59""",110
+53,WAPS,97900,SXK,Mathilda Batlayeri - Saumlaki,"S 07°59'18""","E 131°18'16""",125
+54,WAQA,96503,NNX,Nunukan,"N 04°08'12""","E 117°39'54""",17
+55,WAQD,96525,TJS,Tanjung Harapan - Tanjung Selor,"N 02°50'14""","E 117°22'26""",6
+56,WAQJ,96505,LBW,Yuvai Semaring - Long Bawang,"N 03°52'59""","E 115°42'00""",762
+57,WAQL,,LPU,Long Apung,"N 01°42'16""","E 114°58'13""",732
+58,WAQM,,,Bandar Udara Robert Atty Bessing,"N 03°34'08""","E 116°37'92""",8
+59,WAQQ,96509,TRK,Juwata - Tarakan,"N 03°19'36""","E 117°34'11""",6
+60,WAQT,96529,BEJ,Kalimarau - Tanjung Redeb,"N 02°09'18""","E 117°25'58""",7
+61,WARA,96947,MLG,Abdulrachman Saleh - Malang,"S 07°55'46""","E 112°42'43""",572
+62,WARE,,JBB,Noto Hadinegoro - Jember,"S 08°14'24""","E 113°41'37""",87
+63,WARI,96881,IWH,Iswahjudi - Madiun,"S 07°38'00""","E 111°26'00""",120
+64,WARR,96935,SUB,Juanda - Surabaya,"S 07°22'38""","E 112°47'38""",3
+65,WART,,SUP,Trunojoyo - Sumenep,"S 07°01'27""","E 113°53'24""",3
+66,WARW,96925,BXW,Bawean - Harun Thohir,S 05°43',E 112°40',
+67,WASF,97630,FKQ,Torea - Fak Fak,"S 02°55'13""","E 132°16'01""",125
+68,WASK,97760,KNG,Utarom - Kaimana,"S 03°38'37""","E 133°41'45""",5
+69,WASS,97502,SOQ,Domine Eduard Osok - Sorong,"S 00°53'38""","E 131°17'09""",4
+70,WATA,,ABU,A.A. Bere Talo / Atambua,"S 09°04'28""","E 124°54'16""",375
+71,WATB,,BJW,SOA - Bajawa,"S 08°42'84""","E 121°03'12""",450
+72,WATC,97300,MOF,Fransiskus Xaverius Seda - Maumere,"S 08°38'20""","E 122°14'20""",35
+73,WATE,,ENE,H. Hasan Aroeboesman - Ende,"S 08°50'57""","E 121°39'38""",15
+74,WATG,97284,RTG,Frans Sales Lega - Ruteng,"S 08°35'46""","E 120°28'40""",1143
+75,WATK,,TMC,Tambolaka - Sumba Barat,"S 09°24'34""","E 119°14'40""",62
+76,WATL,97310,LKA,Gewayantana - Larantuka,"S 08°16'27""","E 123°00'00""",9
+77,WATM,97320,ARD,Mali - Alor,"S 08°08'11""","E 124°35'38""",3
+78,WATO,97282,LBJ,Komodo - Labuan Bajo,"S 08°29'17""","E 119°53'20""",67
+79,WATR,97378,RTI,David Constantijn Saudale - Rote,"S 10°46'01""","E 123°04'30""",140
+80,WATS,97380,SAU,Tardamu - Sabu,"S 10°29'34""","E 121°50'59""",20
+81,WATT,97372,KOE,El Tari - Kupang,"S 10°10'17""","E 123°40'19""",103
+82,WATU,97340,WGP,Umbu Mehang Kunda - Waingapu,"S 09°40'08""","E 120°17'56""",10
+83,WATW,,LWE,Wunopito - Lembata,"S 08°21'96""","E 123°26'24""",
+84,WAUU,97530,MKW,Rendani - Manokwari,"S 00°53'35""","E 134°03'00""",5
+85,WAVV,97686,WMX,Wamena,"S 04°05'43""","E 138°57'03""",1655
+86,WAWB,97192,BUW,Beto Ambari - Bau Bau,"S 05°29'13""","E 122°34'08""",34
+87,WAWP,,PUM,Sangia Nibandera - Kolaka,"S 04°10'51""","E 121°36'53""",24
+88,WAWW,97146,KDI,Haluoleo - Kendari,"S 04°04'55""","E 122°25'01""",55
+89,WAYE,97780,EWI,Enarotali,"S 03°55'32""","E 136°22'40""",1.75
+90,WAYY,97796,TIM,Mozes Kilangin - Timika,"S 04°31'39""","E 136°53'23""",103
+91,WIBB,96109,PKU,Sultan Syarif Kasim II - Pekanbaru,"N 00°27'36""","E 101°26'38""",37
+92,WIBJ,96171,RGT,Japura - Rengat,"S 00°21'07""","E 102°20'02""",19
+93,WICA,,KJT,Kertajati,"S 06°39'07""","E 108°09'27""",38
+94,WICC,96781,BDO,Husein Sastranegara - Bandung,"S 06°54'07""","E 107°34'34""",812
+95,WICD,96793,CBN,Cakrabhuwana / Penggung - Cirebon,"S 06°45'24""","E 108°32'20""",27
+96,WICM,96801,TSY,"Wiriadinata - Cibeureum, Tasikmalaya","S 07°20'00""","E 108°15'00""",383
+97,WICS,96773,,"Suryadarma - Kalijati, Subang","S 06°31'53""","E 107°39'32""",120
+98,WIDD,96087,BTH,Hang Nadim - Batam,"N 01°07'24""","E 104°06'53""",38
+99,WIDM,,MWK,MATAK,"N 03°20'36""","E 106°15'68""",3
+100,WIDN,96091,TNJ,Raja Haji Fisabilillah - Tanjung Pinang,"N 00°55'16""","E 104°31'51""",10
+101,WIDO,96147,NTX,Ranai - Natuna,"N 03°54'43""","E 108°23'35""",2
+102,WIDS,96179,SIQ,Dabo - Singkep,"S 00°28'42""","E 104°34'44""",28
+103,WIDT,96089,TJB,Raja Haji Abdullah - Tanjung Balai Karimun,"N 01°03'09""","E 103°23'31""",1
+104,WIEE,96163,PDG,Minangkabau International Airport - Padang,"S 00°47'18""","E 100°16'51""",9
+105,WIET,,,LANUD Sutan Sjahrir,"S 00°52'08""","E 100°20'12""",0
+106,WIGG,96253,BKS,Fatmawati Sukarno - Bengkulu,"S 03°51'51""","E 102°20'24""",22
+107,WIGM,,MPC,Mukomuko,"S 02°32'32""","E 101°05'24""",5
+108,WIHH,96747,HLP,Halim Perdana Kusuma - Jakarta,"S 06°16'03""","E 106°53'11""",28
+109,WIHJ,96755,ATS,Atang Sendjaja - Bogor,"S 06°32'39""","E 106°45'11""",179
+110,WIII,96749,CGK,Soekarno Hatta - Jakarta,"S 06°07'35""","E 106°39'14""",11
+111,WIJI,96207,KRC,Depati Parbo - Kerinci,"S 02°05'38""","E 101°28'11""",791
+112,WIJJ,96195,DJB,Sultan Thaha - Jambi,"S 01°38'10""","E 103°38'31""",27
+113,WIKK,96237,PGK,Depati Amir - Pangkal Pinang,"S 02°09'47""","E 106°08'20""",33
+114,WIKT,96249,TJQ,H.A.S. Hanandjoeddin - Tanjung Pandan,"S 02°45'14""","E 107°45'10""",50
+115,WILL,96295,TKG,Radin Inten II - Lampung,"S 05°14'33""","E 105°10'33""",84
+116,WILM,96273,AKQ,Astra Ksetra - Lampung,"S 04°36'00""","E 105°15'00""",21
+117,WIMA,96009,LSW,Malikus Saleh - Lhokseumawe,"N 05°13'33""","E 096°56'55""",27
+118,WIMB,96075,GNS,Binaka - Gunung Sitoli,"N 01°09'59""","E 097°42'16""",7
+119,WIME,96071,AEG,Aek Godang - Padang Sidempuan,"N 01°23'58""","E 099°25'51""",286
+120,WIMM,96035,KNO,Kualanamu International Airport - Deli Serdang,"N 03°38'25""","E 098°52'43""",7
+121,WIMN,,DTB,Silangit - Tapanuli Utara,"N 02°15'31""","E 098°59'37""",1.416
+122,WIMS,96073,SIX,Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga),"N 01°33'15""","E 098°53'26""",11
+123,WIOG,96557,NPO,Nanga Pinoh,"S 00°20'55""","E 111°44'52""",38
+124,WIOH,96535,,Paloh - Sambas,"N 01°44'05""","E 109°19'97""",8
+125,WIOI,96533,,"Singkawang II - Sanggau Ledo, Kalbar",,,18
+126,WIOK,96615,KTG,Rahadi Oesman - Ketapang,"S 01°48'57""","E 109°57'46""",5
+127,WIOO,96581,PNK,Supadio - Pontianak,"S 00°08'56""","E 109°24'10""",3
+128,WIOP,96565,PSU,Pangsuma - Putussibau,"N 00°50'08""","E 112°56'09""",91
+129,WIOS,96559,SQG,Tebelian - Sintang,"N 00°03'49""","E 111°28'22""",28
+130,WIPP,96221,PLM,Sultan Mahmud Badaruddin II - Palembang,"S 02°53'52""","E 104°42'03""",15
+131,WIRR,96739,BTO,Budiarto - Curug,"S 06°17'27""","E 106°33'57""",42
+132,WITC,96015,MEQ,"Cut Nyak Dien Nagan Raya - Meulaboh, NAD","N 04°02'42""","E 096°14'58""",6
+133,WITN,96001,SBG,Maimun Saleh - Sabang,"N 05°52'36""","E 095°20'24""",110
+134,WITT,96011,BTJ,Sultan Iskandar Muda - Banda Aceh,"N 05°31'12""","E 095°25'15""",23
